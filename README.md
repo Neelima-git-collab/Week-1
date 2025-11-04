@@ -16,7 +16,7 @@ This project aims to perform data analysis on electric vehicle specifications, i
 * Python
 * Pandas, NumPy (data handling)
 * Matplotlib, Seaborn (data visualization)
-* Jupyter Notebook
+* Google Collab
 
 **Week-1 Findings:**
 
